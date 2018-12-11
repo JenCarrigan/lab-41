@@ -22,4 +22,4 @@ Renders the text and image
 Styles set CSS layout for app.
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML](https://raw.githubusercontent.com/JenCarrigan/data-structures-and-algorithms/master/%3Aassets/lab-41-UML.jpg)
