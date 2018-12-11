@@ -6,7 +6,7 @@
 ### Author: Jen Carrigan
 
 ### Links and Resources
-* [repo](https://snack.expo.io/@jencarrigan/surprised-popsicle)
+* [Expo](https://snack.expo.io/@jencarrigan/surprised-popsicle)
 
 ### Modules
 #### `App.js`
