@@ -1,42 +1,25 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 41
 
-### Author: Student/Group Name
+### Author: Jen Carrigan
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://snack.expo.io/@jencarrigan/surprised-popsicle)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### `App.js`
+Images is an array of images with text.
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+Class KungFuCats:
+Constructor takes in props and sets state with index and image width
+nextImage goes to the next image from array Images on swipe
+onImageLayout modies width of image
 
-###### `bar(array) -> array`
-Usage Notes or examples
+Renders the text and image
 
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+Styles set CSS layout for app.
 
 #### UML
 Link to an image of the UML for your application and response to events
